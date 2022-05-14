@@ -1,0 +1,22 @@
+{
+  "name": "anya",
+  "version": "0.0.1",
+  "main": "src/anya.js",
+  "files": [
+    "src/anya.js"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanLuLyf/anya.git"
+  },
+  "keywords": [
+    "Anya"
+  ],
+  "author": "IvanLu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanLuLyf/anya/issues"
+  }
+}
