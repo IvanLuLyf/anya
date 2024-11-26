@@ -1,6 +1,6 @@
 {
   "name": "anya",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/anya.js",
   "files": [
     "src/anya.js"
